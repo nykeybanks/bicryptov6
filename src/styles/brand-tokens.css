@@ -1,0 +1,25 @@
+:root {
+  --qyx-background: #050505;
+  --qyx-background-elevated: #0a0a0a;
+  --qyx-surface: #101010;
+  --qyx-surface-secondary: #161616;
+  --qyx-surface-tertiary: #1d1d1d;
+  --qyx-border: rgba(255, 255, 255, 0.10);
+  --qyx-border-strong: rgba(255, 255, 255, 0.18);
+  --qyx-text-primary: #f5f3ed;
+  --qyx-text-secondary: #b8b6b0;
+  --qyx-text-muted: #85837e;
+  --qyx-gold: #c9a968;
+  --qyx-gold-light: #e1c78e;
+  --qyx-gold-dark: #8d713f;
+  --qyx-platinum: #d6d6d1;
+  --qyx-silver: #a8a8a3;
+  --qyx-titanium: #777874;
+  --qyx-success: #4fa376;
+  --qyx-warning: #c79a4b;
+  --qyx-danger: #b85a5a;
+  --qyx-info: #9b9b94;
+  /* Typography token placeholders — adapt to app font-loading */
+  --qyx-font-ui: "Geist Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  --qyx-font-mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
+}
