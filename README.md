@@ -1,7 +1,7 @@
-# DeMourinho Crypto
+# QuantumYield Exchange (QYX20)
 
 A full-stack cryptocurrency exchange platform built on Bicrypto v6.3.0, rebranded
-for DeMourinho Crypto. Features binary options, spot and futures trading, wallets,
+for QuantumYield Innovation Technologies. Features binary options, spot and futures trading, wallets,
 staking, P2P, and an admin panel.
 
 ## Quick start
